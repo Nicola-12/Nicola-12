@@ -6,14 +6,14 @@
 
 ##
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/Nicola-12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicola-12&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicola-12&layout=compact&langs_count=7&theme=darcula"/>
 </div>
 
 <div>
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Nicola-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Nicola-dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Nicola-flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
