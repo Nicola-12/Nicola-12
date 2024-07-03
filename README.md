@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Nícolas Endrizzi👋
 
 - 💼 Desenvolvedor de Software | Interact Solutions
-- 🏙 Roca Sales, Rio Grande do Sul, Brasil
+- 🏙  Lajeado, Rio Grande do Sul, Brasil
 - 📞 telefone para contato: +55 (51) 99252-5063
 
 ##
