@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Nícolas Endrizzi👋
 
-- 💼 Desenvolvedor de Software | Interact Solutions
+- 💼 Desenvolvedor de Software | DB Server
 - 🏙  Lajeado, Rio Grande do Sul, Brasil
-- 📞 telefone para contato: +55 (51) 99252-5063
+- 📞 Telefone para contato: +55 (51) 99252-5063
 
 ##
 
